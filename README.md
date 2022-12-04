@@ -1,4 +1,4 @@
-!Desenvolvimentos e Projetos Técnicos
+# Desenvolvimentos e Projetos Técnicos
 
 - 👋 Hi, I’m @OBNELETRONICA
 - 👀 I’m interested in Eletronic Projects
@@ -10,3 +10,5 @@
 OBNELETRONICA/OBNELETRONICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Repositório para as aulas Ministradas Online - BLOG [OBN2000/bloginfo](https://obn2000tecinfo.blogspot.com/).
